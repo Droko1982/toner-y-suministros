@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://quickappraiser.github.io/toner-y-suministros/sitemap.xml
+Sitemap: https://droko1982.github.io/toner-y-suministros/sitemap.xml
